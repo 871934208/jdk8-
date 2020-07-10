@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.myJdk8Demo;
 
 @FunctionalInterface
 public interface ThreeFunction<T,U,K,R> {

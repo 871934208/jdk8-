@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.myJdk8Demo;
 
 import java.io.IOException;
 import java.nio.file.Files;

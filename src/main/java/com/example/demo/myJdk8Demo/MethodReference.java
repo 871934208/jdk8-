@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.myJdk8Demo;
 
 import java.util.Arrays;
 import java.util.Comparator;

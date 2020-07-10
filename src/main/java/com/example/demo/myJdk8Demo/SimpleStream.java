@@ -1,7 +1,6 @@
-package com.example.demo;
+package com.example.demo.myJdk8Demo;
 
 import java.util.*;
-import java.util.function.Supplier;
 import java.util.stream.Stream;
 
 import static java.util.Comparator.comparing;
